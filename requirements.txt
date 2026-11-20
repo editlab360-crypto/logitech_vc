@@ -1,0 +1,9 @@
+opencv-python==4.10.0.84
+mediapipe==0.10.14
+numpy==1.26.4
+comtypes==1.4.4
+pygrabber==0.2
+PyAudio==0.2.14
+cryptography==42.0.5
+Pillow==10.3.0
+pyinstaller
